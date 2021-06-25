@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: linear-gradient(hsl(13, 100%, 72%),hsl(353, 100%, 62%));
+
+}
+.main-bg{
+    background-image: url("./images/bg-pattern-intro");
+    background-size: 300px 300px;
+    float:right;
+    z-index: -1;
+}
